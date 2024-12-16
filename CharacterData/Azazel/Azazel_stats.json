@@ -1,0 +1,9 @@
+{
+    "m_HP": 10,
+    "c_HP": 10,
+    "m_PSY": 9,
+    "c_PSY": 7,
+    "avantage": false,
+    "desavantage": true,
+    "posture": "F"
+}
